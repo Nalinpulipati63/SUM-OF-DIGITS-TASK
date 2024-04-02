@@ -1,1 +1,0 @@
-# SUM-OF-DIGITS-TASK
